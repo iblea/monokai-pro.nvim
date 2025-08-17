@@ -21,7 +21,7 @@ function M.terminal(colors)
   vim.g.terminal_color_3 = colors.base.yellow
   vim.g.terminal_color_11 = colors.base.yellow
 
-  vim.g.terminal_color_4 = colors.base.blue
+  -- vim.g.terminal_color_4 = colors.base.blue
   vim.g.terminal_color_12 = colors.base.blue
 
   vim.g.terminal_color_5 = colors.base.magenta
